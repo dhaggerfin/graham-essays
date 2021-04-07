@@ -22,6 +22,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 mkdir essays
 python graham.py # wait for it
+make merge
 make epub
 ```
 
